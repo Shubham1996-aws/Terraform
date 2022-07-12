@@ -1,0 +1,27 @@
+Terraform is developed by HashiCorp.
+
+It will work for many cloud providers like AWS, GCP, Azure, Digital Ocean.
+
+
+Cloud Formation is Developed by AWS.
+
+Clood Formation will only support AWS.
+
+AKIAX5WIIHNEGLWUDZMO
+
+CAtp14tDDO5mXgjSIJfmN93Rlwoovta00cwLzNC2
+
+
+Terraform init:- The terraform init comand is used to initialize a working directory containing terraform configuration files. This is the first command
+that should be run after writing a new terraform configuration.
+
+terraform fmt:- The terraform fmt command is used to rewrite terraform configuration files to a canonical format and style.
+
+terraform validate:- The terraform validate command validates whether a configuration is syntactically valid or not.
+
+terraform plan:- The terraform plan command is used to create an execution plan. This command is convenient way to check whether the execution plan for a
+set of changes matches your expectations without making any changes to real resources or to the state.
+
+terraform apply:- terraform apply to actually create the infrastructure on AWS.
+
+terraform destroy:- The terraform destroy command is used to destroy the terraform managed infrastructure.
